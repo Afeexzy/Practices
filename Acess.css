@@ -1,0 +1,162 @@
+*{
+    padding: 0;
+    margin:  0;
+}
+
+.body1{
+  margin: auto;
+  width: 45%;
+}
+
+.first-section{
+  width: 100%;
+  height: 400px;
+}
+
+.omelette{
+  width: 95%;
+  height:400px;
+  margin-top: 50px;
+  margin-left: 15px;
+  border-radius: 15px;
+}
+
+.first-paragraph{
+  font-size: 45px;
+  margin-top: 60px;
+  margin-left: 40px;
+}
+
+.p1{
+  padding-top: 10px;
+  margin-left: 40px;
+  max-width: 800px;
+}
+
+.heading1{ 
+  margin-left: 27px;
+  padding-top: 30px;
+  color: rgb(181, 14, 14)
+
+
+}
+
+.second-paragraph{
+  width: 90%;
+  height: 180px;
+  background-color: rgb(255, 237, 237);
+  border-radius: 20px;
+  margin-left: 40px;
+  margin-top: 30px;
+   
+}
+
+.list1{
+  padding-left: 40px;
+
+}
+
+.third-paragraph{
+  width: 100%px;
+  margin-left: 40px;
+}
+
+.heading2 { 
+  margin-left: 40px;
+  padding-top: 30px;
+  font-size: 30px;
+  color:rgb(159, 47, 47)
+}
+
+.forth-paragraph{
+  margin-left: 40px;
+  margin-top: 20px;
+  margin-bottom: 30px;
+}
+
+.section-width{
+  margin-bottom: 40px;
+  
+}
+.paragraph1{
+  margin-top: 10px;
+}
+
+.paragraph2{
+  margin-top: 10px;
+}
+
+.paragraph3{
+  margin-top: 10px;
+}
+
+.paragraph4{
+  margin-top: 10px;
+}
+
+.paragraph5{
+  margin-top: 10px;
+}
+
+.section-width{
+  height: 190px;
+  margin-left: 13px;
+}
+.heading3{ 
+  margin-top: 10px;                
+  font-size: 40px;
+  color:rgb(159, 47, 47)
+}
+.fifth-paragraph{
+  margin-left:40px;
+  width: 570px;
+
+}
+.heading4{
+  font-size: 40px;
+  color:rgb(159, 47, 47);
+}
+.spacing1{
+  word-spacing: 268px;
+  margin-top: 20px;
+}
+.spacing2{
+  word-spacing: 285px;
+  margin-top: 20px;
+}
+.spacing3{
+  word-spacing: 275px;
+  margin-top: 20px;
+}
+.spacing4{
+  word-spacing: 300px;
+  margin-top: 20px;
+}
+.spacing9{
+  margin-top: 20px;
+}
+.list01{
+  margin-top: 10px;
+  
+}
+.list02{
+  margin-top: 10px; 
+}
+.list03{
+  margin-top: 10px; 
+}
+.list04{
+  margin-top: 10px; 
+}
+.list05{
+  margin-top: 10px; 
+}
+.list06{
+  margin-top: 15px; 
+}
+.list07{
+  margin-top: 10px; 
+}
+.list08{
+  margin-top: 10px; 
+}
